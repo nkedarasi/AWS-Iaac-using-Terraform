@@ -1,1 +1,1 @@
-# aws
+# terraform practice codes for IAAC
