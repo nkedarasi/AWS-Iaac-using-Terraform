@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
 # ec2instances.py
 # It is an example of how to handle AWS EC2 instances.
 # It uses Client API (low-level) of Boto3.
