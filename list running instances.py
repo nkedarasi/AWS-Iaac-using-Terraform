@@ -52,6 +52,6 @@ def main():
     return
 
 
-# This is the standard boilerplate that calls the main() function.
+# This is the standard that calls the main() function.
 if __name__ == '__main__':
     main()
